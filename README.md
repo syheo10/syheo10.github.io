@@ -5,9 +5,9 @@
 
 Just another documentation theme compatible with GitHub Pages
 
-## What it does?
+## 제1장. 룰 문법
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
+이 장에서는 InnoRules 룰 문법을 구성하는 기본 사항과, 룰 내용 작성에 필요한 룰 표현식 기술 문법에 대해 설명한다.
 
 - [@primer/css](https://github.com/primer/css)
 - [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
@@ -36,9 +36,9 @@ Documentation that can guide how to create with Github pages, please refer to [r
 
 ## Options
 
-| name          | default value        | description       |
+| 구분          | 설명                                      |
 | ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
+| `메인 룰`      | 어플리케이션에서 직접 호출하고 실행 결과가 참조되는 룰            |
 | `description` | repo description     |                   |
 | `url`         | user domain or cname |                   |
 | `baseurl`     | repo name            |                   |
