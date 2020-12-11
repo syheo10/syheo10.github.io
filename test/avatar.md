@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-# Avatar Test
+# 제 7장. 운영 관리
 
 ```
 {% raw %}{% avatar saowang %}{% endraw %}
