@@ -32,4 +32,4 @@ Documentation that can guide how to create with Github pages, please refer to [r
 | `버전 정보`    | 버전 일자, 실행 모드 등 버전 관련 정의 사항              |
 | `룰 내용`      | 룰 템플릿에 기술한 룰 표현식들                          |
 
-[표1. 룰의 구성]
+                              [표1. 룰의 구성]
