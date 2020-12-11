@@ -2,7 +2,7 @@
 sort: 8
 ---
 
-# Mentions Test
+# 제 8장. 설정 관리
 
 ```
 Hey @saowang, what do you think of this?
