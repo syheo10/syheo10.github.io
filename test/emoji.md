@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# Emoji Test
+# 제 5장. 룰 작성 및 관리
 
 ```
 I give this theme two :+1:!
