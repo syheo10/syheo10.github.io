@@ -5,14 +5,14 @@
 
 Just another documentation theme compatible with GitHub Pages
 
-## What it does?
+## 제 1장. 룰 문법
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
+이 장에서는 InnoRules 룰 문법을 구성하는 기본 사항과, 룰 내용 작성에 필요한 룰 표현식 기술 문법에 대해 설명한다.
 
 - [@primer/css](https://github.com/primer/css)
 - [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
 
-## Quick start
+## 1. 기본 사항
 
 ```yml
 remote_theme: rundocs/jekyll-rtd-theme
