@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-# Mermaid Test
+# 제 4장. 항목 관리
 
     ```mermaid
     graph TB
