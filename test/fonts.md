@@ -8,7 +8,7 @@ text: |
   ‘?’“!”(%)[#]{@}/&\<-+÷×=>®©$€£¥¢:;,.*
 ---
 
-# Fonts Test
+# Appendix
 
 `{:.font-mono}`
 
