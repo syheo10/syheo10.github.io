@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Toasts Card
+# 제 2장. 룰 빌더 기본 사항
 
 THIS IS TOO LONG, NEED UPDATE! HERE IS SOME IDEAS:
 
