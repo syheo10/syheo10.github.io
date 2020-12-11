@@ -1,10 +1,5 @@
 # InnoRules Users Guide of Rule Builder
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
-
-Just another documentation theme compatible with GitHub Pages
-
 ## 제1장. 룰 문법
 
 이 장에서는 InnoRules 룰 문법을 구성하는 기본 사항과, 룰 내용 작성에 필요한 룰 표현식 기술 문법에 대해 설명한다.
