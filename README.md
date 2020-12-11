@@ -3,8 +3,6 @@
 ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
-Just another documentation theme compatible with GitHub Pages
-
 ## 제 1장. 룰 문법
 
 이 장에서는 InnoRules 룰 문법을 구성하는 기본 사항과, 룰 내용 작성에 필요한 룰 표현식 기술 문법에 대해 설명한다.
@@ -22,27 +20,14 @@ Just another documentation theme compatible with GitHub Pages
 
 Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
 
-## Features
-
-- Shortcodes (Toasts card, mermaid)
-- Pages Plugins (emoji, gist, avatar, mentions)
-- Auto generate sidebar
-- [Attribute List Definitions](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions) (Primer/css utilities, Font Awesome 4)
-- Service worker (caches)
-- SEO (404, robots.txt, sitemap.xml)
-- Canonical Link (Open Graph, Twitter Card, Schema data)
-
 ## Options
 
-| name          | default value        | description       |
-| ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
-| `description` | repo description     |                   |
-| `url`         | user domain or cname |                   |
-| `baseurl`     | repo name            |                   |
-| `lang`        | `en`                 |                   |
-| `direction`   | `auto`               | `ltr` or `rtl`    |
-| `highlighter` | `rouge`              | Cannot be changed |
+|구분           | 주요 구성/정의 사항        |
+| ------------- | -------------------- |
+| `룰 정보`      | 룰 식별자, 룰 템플릿 유형, 부가 정보 등 룰 관련 정의 사항 |
+| `룰 정보`      | 리턴 정보(리턴 형식, 리턴 항목, 리턴 항목의 데이터 타입   |
+| `버전 정보`    | 버전 일자, 실행 모드 등 버전 관련 정의 사항              |
+| `룰 내용`      | 룰 템플릿에 기술한 룰 표현식들                          |
 
 ```yml
 # folders sort
