@@ -9,16 +9,14 @@ Just another documentation theme compatible with GitHub Pages
 
 이 장에서는 InnoRules 룰 문법을 구성하는 기본 사항과, 룰 내용 작성에 필요한 룰 표현식 기술 문법에 대해 설명한다.
 
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+- 룰을 구성하는 룰 식별자, 룰 템플릿, 룰 버전, 룰 리턴, 룰 표현식 등
+- 룰 표현식의 구성 요소
+- 룰 표현식의 구성 요소와 룰 표현식의 실행 결과가 가지는 데이터 타입과 데이터 형식
+- 룰과 룰 표현식의 작성 규칙
 
 ## 1. 기본 사항
 
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
-
-You can [generate](https://github.com/rundocs/starter-slim/generate) with the same files and folders from [rundocs/starter-slim](https://github.com/rundocs/starter-slim/)
+업무 분석을 통해 도출된 하나의 비즈니스 룰은, 문법 규칙이나 재활용, 성능, 유지보수 효율성 등을 고려하여, InnoRules 룰 시스템(이하 InnoRules 또는 룰 시스템)에서의 최소 정의 단위인 룰로 분해되고, 이들 룰 간 일련의 호출 및 결과 참조, 연산 등을 통해 구현된다.
 
 ## Usage
 
