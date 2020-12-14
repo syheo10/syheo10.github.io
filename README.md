@@ -13,7 +13,7 @@
 
 업무 분석을 통해 도출된 하나의 비즈니스 룰은, 문법 규칙이나 재활용, 성능, 유지보수 효율성 등을 고려하여, InnoRules 룰 시스템(이하 InnoRules 또는 룰 시스템)에서의 최소 정의 단위인 룰로 분해되고, 이들 룰 간 일련의 호출 및 결과 참조, 연산 등을 통해 구현된다.
 
-![image](C:\Users\허수연\Documents\GitHub\syheo10.github.io\image\0001.jpg)
+![image](https://github.com/syheo10/syheo10.github.io/blob/develop/images/image1.png?raw=true)
 
 ![그림 1 . 룰 호출 및 결과 참조 관계도](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 
