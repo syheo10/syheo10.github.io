@@ -15,8 +15,6 @@
 
 ![image](https://github.com/syheo10/syheo10.github.io/blob/develop/images/image1.png?raw=true)
 
-![그림 1 . 룰 호출 및 결과 참조 관계도](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-
 
 기본적으로 하나의 룰은, 하나 이상의 (룰) 버전을 가지며 룰과 버전 각각에 대한 정보(정의 사항)와 룰 내용 기술을 통해 구현된다.
 
@@ -27,4 +25,4 @@
 | `버전 정보`    | 버전 일자, 실행 모드 등 버전 관련 정의 사항              |
 | `룰 내용`      | 룰 템플릿에 기술한 룰 표현식들                          |
 
-                 [표1. 룰의 구성]
+[표1. 룰의 구성]
